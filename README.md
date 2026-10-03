@@ -84,7 +84,7 @@ Designed and analyzed a grocery store database containing customers, products, a
 
 ---
 
-### ☄️ NEO Hazard Prediction
+### [☄️ NEO Hazard Prediction](https://github.com/kirthisaloni/Near-Earth-Object-Hazard-Prediction-System)
 
 **Machine Learning | Classification | Model Evaluation**
 
@@ -175,12 +175,12 @@ I enjoy combining **technical thinking with visual creativity**, whether that's 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirthisaloni&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirthisaloni&layout=compact&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kirthisaloni&show_icons=true&theme=dark" width="400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirthisaloni&layout=compact&theme=dark" width="400" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kirthisaloni" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=kirthisaloni&theme=dark" width="400" height="180"/>
 </p>
 
 ---
