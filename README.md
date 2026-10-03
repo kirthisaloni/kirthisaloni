@@ -172,18 +172,6 @@ I enjoy combining **technical thinking with visual creativity**, whether that's 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirthisaloni&show_icons=true&theme=dark" width="400" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirthisaloni&layout=compact&theme=dark" width="400" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kirthisaloni&theme=dark" width="400" height="180"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
